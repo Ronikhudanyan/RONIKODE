@@ -242,13 +242,13 @@ const TimeLine = () => {
               </div>
               <div className="d-flex justify-content-between flex-nowrap text-center">
                 <UrlButton
-                  href="https://github.com/akjha96/MernTipCaculator-FrontEnd"
+                  href=""
                   target="_blank"
                 >
                   SOURCE CODE
                 </UrlButton>
                 <UrlButton
-                  href="https://www.linkedin.com/posts/anand-kumar-jha-745798a4_react-nodejs-expressjs-activity-6712281977107603456-oH6t"
+                  href=""
                   target="_blank"
                 >
                   WATCH VIDEO
@@ -343,19 +343,19 @@ const TimeLine = () => {
               </div>
               <div className="d-flex justify-content-between flex-nowrap text-center">
                 <UrlButton
-                  href="https://akjha96.github.io/getGithubInfo/"
+                  href="link"
                   target="_blank"
                 >
                   SEE LIVE
                 </UrlButton>
                 <UrlButton
-                  href="https://github.com/akjha96/getGithubInfo"
+                  href="link"
                   target="_blank"
                 >
                   SOURCE CODE
                 </UrlButton>
                 <UrlButton
-                  href="https://www.youtube.com/watch?v=K3h95l2YxmY&feature=youtu.be"
+                  href="link"
                   target="_blank"
                 >
                   WATCH VIDEO
@@ -465,19 +465,19 @@ const TimeLine = () => {
               </div>
               <div className="d-flex justify-content-between flex-nowrap text-center">
                 <UrlButton
-                  href="https://smart-face-detect-app.herokuapp.com/"
+                  href="link"
                   target="_blank"
                 >
                   SEE LIVE
                 </UrlButton>
                 <UrlButton
-                  href="https://github.com/akjha96/Smart_Brain"
+                  href="link"
                   target="_blank"
                 >
                   SOURCE CODE
                 </UrlButton>
                 <UrlButton
-                  href="https://www.youtube.com/watch?v=ZZYSpi_blL0"
+                  href="link"
                   target="_blank"
                 >
                   WATCH VIDEO
@@ -584,13 +584,13 @@ const TimeLine = () => {
               </div>
               <div className="d-flex justify-content-between flex-nowrap text-center">
                 <UrlButton
-                  href="https://akjha96.github.io/RoboFriends/"
+                  href="link"
                   target="_blank"
                 >
                   SEE LIVE
                 </UrlButton>
                 <UrlButton
-                  href="https://github.com/akjha96/RoboFriends"
+                  href="link"
                   target="_blank"
                 >
                   SOURCE CODE
@@ -700,7 +700,7 @@ const TimeLine = () => {
               </div>
               <div className="d-flex justify-content-between flex-nowrap text-center">
                 <UrlButton
-                  href="https://github.com/akjha96/product_hunt_clone"
+                  href="link"
                   target="_blank"
                 >
                   SOURCE CODE
